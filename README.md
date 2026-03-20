@@ -11,8 +11,8 @@ Hands‑on Terraform demos for **Senior Cloud Engineer** role at Celito. Built M
 
 ## 🚀 Quick Deploy (any demo)
 
-```bash
-cd demos/<demo-name>
+   ```bash
+cd `./demos/<demo-name>`
 terraform init
 terraform plan
 terraform apply
