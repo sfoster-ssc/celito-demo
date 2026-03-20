@@ -11,15 +11,15 @@ Hands‑on Terraform demos for **Senior Cloud Engineer** role at Celito. Built M
 
 ## 🚀 Quick Deploy (any demo)
 
+- cd ./demos/tenant-rg-template
+- terraform init
+- terraform plan
+- terraform apply
 
-cd ./demos/tenant-rg-template
-terraform init
-terraform plan
-terraform apply
+## Destroy:
 
-Destroy:
-cd .demos/tenant-rg-template
-terraform destroy
+- cd .demos/tenant-rg-template
+- terraform destroy
 
 ## Why these patterns?
 - Repeatable, extensible steps for tenant deployments
